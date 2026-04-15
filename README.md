@@ -60,13 +60,13 @@ When the link between switches is removed, hosts cannot communicate. This shows 
 ## Screenshots
 
 ### Normal Ping
-![Normal](Desktop/normal_ping.png)
+![Normal](screenshots/normal_ping.png)
 
 ### Link Down
-![Link Down](Desktop/link_down.png)
+![Link Down](screenshots/link_down.png)
 
 ### Packet Loss
-![Packet Loss](Desktop/packet_loss.png)
+![Packet Loss](screenshots/packet_loss.png)
 
 ## Conclusion
 
